@@ -1,2 +1,2 @@
-# air-pocket
-https://myrzaiymaskarova.github.io/air-pocket/
+# project-verstca
+https://myrzaiymaskarova.github.io/project-verstca/
